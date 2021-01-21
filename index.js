@@ -145,5 +145,5 @@ for (let question of Object.keys(questions)) {
 }
 
 console.log("Total Score-" + total + "\n");
-console.log("Correct Answers-" + total + "\n");
+console.log("Total Correct Answers-" + total + "\n");
 
